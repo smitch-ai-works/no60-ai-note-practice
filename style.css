@@ -5,3 +5,4 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.line-banner:before{animation:none;background:none}}
 p,h2,h3,.decision strong,.decision>span,.opinion strong,.type-grid span,.typed small{text-wrap:pretty}
 .site-footer{font-size:12px;padding:22px 24px}.site-footer p{margin:0}.site-footer nav{display:flex;flex-wrap:wrap;gap:8px 18px;margin:8px 0}.site-footer details{margin:12px 0}.site-footer summary{cursor:pointer;font-weight:650}.site-footer details>div{padding:10px 0;line-height:1.8}.site-footer details p+p{margin-top:8px}.site-footer small{font-size:11px}.policy{padding:32px 24px}.policy>h1{font-size:26px;line-height:1.5;margin-top:20px}.policy>section{padding:24px 0}.policy>section h2{font-size:19px;letter-spacing:0}.policy>section p{font-size:15px;line-height:1.9}.policy a{overflow-wrap:anywhere}
+.decision strong,.decision>span,.opinion strong,.opinion p,.instruction,#save>p,#close>p{text-wrap:balance}
